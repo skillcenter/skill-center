@@ -6,7 +6,7 @@ images:
 - "/img/freely-20445.jpg"
 
 ---
-This is a test about page.
+This is an example about page.
 
 With a bible quote for good measure!
 
