@@ -111,7 +111,7 @@ googleAnalytics = ""
       image = "img/banner.jpg"
 
       [[params.landing.banner.button]]
-        url = "/contact"
+        url = "#call-to-action"
         text = "Get in touch"
         #type = "special"
 
