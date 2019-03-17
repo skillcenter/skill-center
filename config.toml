@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Alpha Church"
+title = "Skill Center"
 theme = ['alpha-church']
 themesDir = "./themes"
 

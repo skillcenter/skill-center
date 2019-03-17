@@ -1,0 +1,1 @@
+var map;function initMap(){map=new google.maps.Map(document.getElementById('map'),{center:{lat:39.9239550,lng:-83.8034260},zoom:14});}
