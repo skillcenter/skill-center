@@ -15,8 +15,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/sermons
-  label: Sermons
+  path: content/events
+  label: Events
   create: all
   match: "**/*"
 upload_dir: static/uploads

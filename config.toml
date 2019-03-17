@@ -17,9 +17,9 @@ parent = "Resources"
 url = "/posts"
 weight = 2
 [[menu.main]]
-name = "Sermons"
+name = "Events"
 parent = "Resources"
-url = "/sermons"
+url = "/events"
 weight = 1
 [[menu.main]]
 name = "About Us"
