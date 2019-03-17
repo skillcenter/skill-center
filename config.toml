@@ -42,7 +42,7 @@ weight = 1
 bible_popups = true
 customCSS = ["example.css"]
 instant_page = true
-subtitle = "Need - add sentence describing business"
+subtitle = "Serving the community by offering instruction in wood working, graphic arts, and crafts"
 title = "Skill Center"
 [params.contact]
 confirm_page = "/contact_thanks"
