@@ -104,21 +104,6 @@ url = "#"
 [params.landing.services]
 text = "Visit our skill center"
 title = "Come take a class"
-[params.map]
-latitude = "48.8530"
-longitude = "2.3498"
-zoom = "18"
-[params.podcast]
-category = "Religion & Spirituality"
-copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
-email = "test@example.com"
-feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
-iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
-image = "img/podcast-cover.jpg"
-sub_category = "Christianity"
-subtitle = ""
-summary = "Alpha-Church sermons, talks, messages—podcasted."
-title = "Listen to Alpha Church"
 [[params.links]]
 icon = "fa-twitter"
 icon_pack = "fab"
@@ -129,11 +114,6 @@ icon = "fa-facebook"
 icon_pack = "fab"
 link = "//facebook.com/"
 service = "Facebook"
-[[params.links]]
-icon = "fa-podcast"
-icon_pack = "fas"
-link = "/sermons/index.xml"
-service = "Podcast"
 [[params.links]]
 icon = "fa-rss"
 icon_pack = "fas"
