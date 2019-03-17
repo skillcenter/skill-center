@@ -123,7 +123,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Come take a class"
-      text = "Hours of operation:<br />Mon-Fri:<br />Sat-Sun:"
+      text = "Visit our skill center"
       #map_location = "Cathédrale Notre-Dame de Paris"
 
     [params.landing.feature_icons]
