@@ -63,10 +63,10 @@ googleAnalytics = ""
     url = "/contact"
     weight = 4
 
-# Paramaters for the whole site
+# Parameters for the whole site
 [params]
   title = "Skill Center"
-  subtitle = "Another Skill Center Theme"
+  subtitle = "NEED - add sentence describing business"
   #author = "Daniel Saunders"
 
   customCSS = ["example.css"]
@@ -104,7 +104,7 @@ googleAnalytics = ""
     confirm_page = "/contact_thanks"
     # formspree_email=""
 
-  #Paramaters for the home/landing page
+  #Parameters for the home/landing page
   [params.landing]
 
     [params.landing.banner]
