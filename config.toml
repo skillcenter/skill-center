@@ -5,7 +5,7 @@ languageCode = "en-us"
 rssLimit = 5
 theme = ["alpha-church"]
 themesDir = "./themes"
-title = "Skill Center"
+title = "Skill Center - Springfield Ohio"
 [[menu.main]]
 name = "Leaders"
 parent = "About"
