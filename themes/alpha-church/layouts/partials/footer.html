@@ -41,5 +41,16 @@
 <script src="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}" crossorigin="anonymous"></script>
 <script src="{{ $plyr.RelPermalink }}" integrity="{{ $plyr.Data.Integrity }}" crossorigin="anonymous"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDATQ2cQ4-vt1z6hOM5TtDriRZzjFt1weM&callback=initMap" async defer></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>

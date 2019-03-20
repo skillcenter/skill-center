@@ -43,7 +43,7 @@ bible_popups = true
 customCSS = ["example.css"]
 instant_page = true
 subtitle = "Serving the community by offering instruction in wood working, graphic arts, and crafts"
-title = "Skill Center"
+title = "Skill Center - Springfield Ohio"
 [params.contact]
 confirm_page = "/contact_thanks"
 service = "netlify"
