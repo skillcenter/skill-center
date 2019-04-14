@@ -67,28 +67,28 @@ url = "#feature-icons"
 enable = true
 [[params.landing.feature_icons.tile]]
 accent = "1"
-icon = "fa-hands-helping"
+icon = "fa-tools"
 icon_pack = "fas"
-text = "Growing people who serve our community."
-title = "Serve"
+text = "Retired woodshop teacher available for classes"
+title = "Woodshop"
 [[params.landing.feature_icons.tile]]
 accent = "2"
-icon = "fa-church"
+icon = "fa-tshirt"
 icon_pack = "fas"
-text = "Meeting together to hear."
-title = "Meet"
+text = "Come learn T-Shirt printing"
+title = "T-Shirt Printing"
 [[params.landing.feature_icons.tile]]
 accent = "5"
-icon = "fa-comments"
-icon_pack = "fas"
-text = "Speaking encouragement to one-another."
-title = "Speak"
+icon = "fa-firstdraft"
+icon_pack = "fab"
+text = "Come create and have fun"
+title = "Crafts"
 [[params.landing.feature_icons.tile]]
 accent = "3"
-icon = "fa-heartbeat"
+icon = "fa-scroll"
 icon_pack = "fas"
-text = "Knowing Love. Being Loved."
-title = "Loved"
+text = "Coming Soon"
+title = "Litho Printing"
 
 [params.landing.feature_images]
 enable = true
