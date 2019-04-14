@@ -6,3 +6,5 @@ images: ''
 # This is a page about leaders
 
 ![](/img/freely-26905.jpg)
+
+Leadership information
