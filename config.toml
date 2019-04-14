@@ -95,8 +95,7 @@ enable = true
 [[params.landing.feature_images.tile]]
 button_text = "Learn more"
 image = "img/img_6477.jpg"
-text = "A church for the family."
-title = "Childrens' Ministry"
+title = "Available Projects"
 url = "/kids"
 [[params.landing.feature_images.tile]]
 button_text = "Join a group today!"
