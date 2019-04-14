@@ -120,6 +120,4 @@ icon_pack = "fas"
 link = "/index.xml"
 service = "Full RSS Feed"
 [taxonomies]
-preacher = "preachers"
-series = "series"
 tag = "tags"
