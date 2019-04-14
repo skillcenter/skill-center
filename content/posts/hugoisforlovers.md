@@ -13,6 +13,7 @@ categories: [
     "golang",
 ]
 images: []
+draft: false
 ---
 
 ## Step 1. Install Hugo

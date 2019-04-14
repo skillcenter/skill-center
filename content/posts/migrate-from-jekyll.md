@@ -1,7 +1,8 @@
 ---
-date: 2014-03-10
 title: Migrate to Hugo from Jekyll
+date: 2014-03-10
 images: []
+draft: false
 ---
 
 ## Move static content to `static`

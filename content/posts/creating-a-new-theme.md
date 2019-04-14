@@ -3,6 +3,7 @@ date: 2014-09-28
 title: Creating a New Theme
 tags: ["testing"]
 images : []
+draft: false
 ---
 
 

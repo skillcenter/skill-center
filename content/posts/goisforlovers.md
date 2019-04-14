@@ -14,6 +14,7 @@ categories: [
     "golang",
 ]
 images: []
+draft: false
 ---
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
