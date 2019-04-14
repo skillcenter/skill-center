@@ -96,13 +96,13 @@ enable = true
 button_text = "Learn more"
 image = "img/img_6477.jpg"
 title = "Available Projects"
-url = "/kids"
+url = "/woodshop-101"
 [[params.landing.feature_images.tile]]
-button_text = "Join a group today!"
+button_text = "Learn more"
 image = "img/freely-26905.jpg"
-text = "Want more during the week?"
-title = "Midweek Ministries"
-url = "#"
+text = "Sign up for a class!"
+title = "Crafts"
+url = "/crafts"
 
 [params.landing.services]
 text = "Visit our skill center"
