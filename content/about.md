@@ -1,14 +1,9 @@
 ---
-title: "About"
-subtitle: "About Skill Center"
-date: 2018-04-30 00:05:49 +0000
-images: ["/img/freely-20445.jpg"]
+title: 'Roger E. Boomershine '
+subtitle: ' Skill Center'
+date: '2018-04-30 00:05:49 +0000'
+images:
+  - /img/banner.jpg
 tags: []
 ---
-This is an example about page.
-
-With a bible quote for good measure!
-
-> “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.”
-
-(John 3:16–18 NIV11-GKE)
+This skill center was first thought of in Michigan when Roy Boomershine was retired early from teaching wood shop.  Many industrial art classes have been discontinued from high school curriculum. After being a shop teacher for over twenty-five years Roy was not ready to retire.  After moving to Ohio the skill center plan was started.  It’s been over seven years and the center is finally becoming reality. The skill center is named after Roy’s father who passed away in 2011. He was a shop teacher too, and many of the tools are from his shop. The work on this building started in July of 2018 with many hours of hard work and expense to achieve this beautiful new skill center.  The building was the old Peter’s Key Shop, but is now like new.
