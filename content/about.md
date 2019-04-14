@@ -2,9 +2,7 @@
 title: About
 subtitle: About Skill Center
 date: 2018-04-30 00:05:49 +0000
-images:
-- "/img/freely-20445.jpg"
-
+images: ["/img/freely-20445.jpg"]
 ---
 This is an example about page.
 

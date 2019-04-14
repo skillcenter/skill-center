@@ -6,6 +6,7 @@ rssLimit = 5
 theme = ["alpha-church"]
 themesDir = "./themes"
 title = "Skill Center - Springfield Ohio"
+
 [[menu.main]]
 name = "Leaders"
 parent = "About"
@@ -38,8 +39,8 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
+
 [params]
-bible_popups = true
 customCSS = ["example.css"]
 instant_page = true
 subtitle = "Serving the community by offering instruction in wood working, graphic arts, and crafts"
@@ -48,7 +49,7 @@ title = "Skill Center - Springfield Ohio"
 confirm_page = "/contact_thanks"
 service = "netlify"
 [params.footer]
-copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)", "Design: [HTML5 UP](//html5up.net/alpha)", "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"]
+copyright = ["skill-center.org"]
 [params.landing.CTA]
 heading = "Get in touch!"
 message = "We'd love to hear from you."
@@ -61,6 +62,7 @@ url = "#call-to-action"
 text = "Find out more"
 type = "special"
 url = "#feature-icons"
+
 [params.landing.feature_icons]
 enable = true
 [[params.landing.feature_icons.tile]]
@@ -87,6 +89,7 @@ icon = "fa-heartbeat"
 icon_pack = "fas"
 text = "Knowing Love. Being Loved."
 title = "Loved"
+
 [params.landing.feature_images]
 enable = true
 [[params.landing.feature_images.tile]]
@@ -101,6 +104,7 @@ image = "img/freely-26905.jpg"
 text = "Want more during the week?"
 title = "Midweek Ministries"
 url = "#"
+
 [params.landing.services]
 text = "Visit our skill center"
 title = "Come take a class"
@@ -119,5 +123,6 @@ icon = "fa-rss"
 icon_pack = "fas"
 link = "/index.xml"
 service = "Full RSS Feed"
+
 [taxonomies]
 tag = "tags"
