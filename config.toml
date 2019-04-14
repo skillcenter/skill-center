@@ -94,7 +94,7 @@ title = "Litho Printing"
 enable = true
 [[params.landing.feature_images.tile]]
 button_text = "Learn more"
-image = "img/freely-10057.jpg"
+image = "img/img_6477.jpg"
 text = "A church for the family."
 title = "Childrens' Ministry"
 url = "/kids"
