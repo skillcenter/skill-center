@@ -41,6 +41,6 @@ collections:
         name: "images"
         widget: "list"
         required: false
-        field: {label: "Images", name: "images", widget: "image"}
+        field: {label: "Images", name: "images", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
