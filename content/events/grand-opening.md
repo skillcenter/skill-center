@@ -1,8 +1,8 @@
 ---
 title: 'Grand Opening '
 subtitle: ''
-date: '2019-04-27T09:00:31.7-04:00'
-publishDate: '2019-04-16T19:42:31.781-04:00'
+publishDate: '2019-04-16T09:00:00-04:00'
+date: '2019-04-27T09:00:00-04:00'
 images:
   - /img/banner.jpg
 tags:
