@@ -3,7 +3,9 @@
 				<section id="main" class="container">
 					<header>
 						<h2>{{ .Params.title }}</h2>
-						<h4><time class="date-meta"></time>Time: {{ with .Params.startDate }}{{ dateFormat "Monday, Jan 2 2006 - 3:04 PM" . }}{{ end }} to {{ with .Params.endDate }}{{ dateFormat "3:04 PM" . }}{{ end }}</time></h4>
+						<time class="date-meta">Date: {{ with .Params.startDate }}{{ dateFormat "Monday, Jan 2 2006" . }}{{ end }}</time>
+          <br>
+          <time class="date-meta">Time: {{ with .Params.startDate }}{{ dateFormat "3:04 PM" . }}{{ end }} to {{ with .Params.endDate }}{{ dateFormat "3:04 PM" . }}{{ end }}</time>
 						{{ with .Params.subtitle }}
 							<p>{{ . }}</p>
 						{{ end }}

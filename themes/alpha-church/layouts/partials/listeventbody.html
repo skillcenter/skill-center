@@ -7,7 +7,9 @@
         <div class="6u">
           <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
           <br>
-          <time class="date-meta">Time: {{ with .Params.startDate }}{{ dateFormat "Monday, Jan 2 2006 - 3:04 PM" . }}{{ end }} to {{ with .Params.endDate }}{{ dateFormat "3:04 PM" . }}{{ end }}</time>
+          <time class="date-meta">Date: {{ with .Params.startDate }}{{ dateFormat "Monday, Jan 2 2006" . }}{{ end }}</time>
+          <br>
+          <time class="date-meta">Time: {{ with .Params.startDate }}{{ dateFormat "3:04 PM" . }}{{ end }} to {{ with .Params.endDate }}{{ dateFormat "3:04 PM" . }}{{ end }}</time>
           <br>
           {{ .Summary | plainify | safeHTML }}
           {{ if .Truncated }}
