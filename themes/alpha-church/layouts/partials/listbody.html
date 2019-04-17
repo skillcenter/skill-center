@@ -6,7 +6,7 @@
       <div class="row no-collapse 50% uniform">
         <div class="6u">
           <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
-          <time class="date-meta">({{ .Date.Format "Jan 2 3:04 PM MST 2006" }})</time>
+          <time class="date-meta">({{ .Date.Format "Jan 2 3:04 PM 2006" }})</time>
           <br>
           {{ .Summary | plainify | safeHTML }}
           {{ if .Truncated }}
@@ -22,7 +22,7 @@
     {{ else }}
     <div>
       <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
-      <time class="date-meta">({{ .Date.Format "Jan 2 3:04 PM MST 2006" }})</time>
+      <time class="date-meta">({{ .Date.Format "Jan 2 3:04 PM 2006" }})</time>
       <br>
       {{ .Summary | plainify | safeHTML }}
       {{ if .Truncated }}

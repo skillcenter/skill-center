@@ -28,8 +28,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Publish Date", name: "publishDate", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ"}
-      - {label: "Event Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ"}
+      - {label: "Publish Date", name: "publishDate", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss"}
+      - {label: "Event Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss"}
       - label: "Images"
         name: "images"
         widget: "list"
