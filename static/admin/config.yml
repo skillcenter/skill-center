@@ -28,7 +28,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Event Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm"}
+      - {label: "Event Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
       - label: "Images"
         name: "images"
         widget: "list"
