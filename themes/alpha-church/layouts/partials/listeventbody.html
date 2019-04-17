@@ -5,12 +5,9 @@
     {{ if .Params.images }}
       <div class="row no-collapse 50% uniform">
         <div class="6u">
-          <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
-          <br>
-          <time class="date-meta">Date: {{ with .Params.startDate }}{{ dateFormat "Monday, Jan 2 2006" . }}{{ end }}</time>
-          <br>
-          <time class="date-meta">Time: {{ with .Params.startDate }}{{ dateFormat "3:04 PM" . }}{{ end }} to {{ with .Params.endDate }}{{ dateFormat "3:04 PM" . }}{{ end }}</time>
-          <br>
+          <h4><a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a></h4>
+          <h5><time class="date-meta">Date: {{ with .Params.startDate }}{{ dateFormat "Monday, Jan 2 2006" . }}{{ end }}</time></h5>
+          <h5><time class="date-meta">Time: {{ with .Params.startDate }}{{ dateFormat "3:04 PM" . }}{{ end }} to {{ with .Params.endDate }}{{ dateFormat "3:04 PM" . }}{{ end }}</time></h5>
           {{ .Summary | plainify | safeHTML }}
           {{ if .Truncated }}
             <a class="button small alt" href="{{ .Permalink }}" >
