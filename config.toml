@@ -83,7 +83,7 @@ title = "Available Projects"
 url = "/woodshop-101"
 [[params.landing.feature_images.tile]]
 button_text = "Learn more"
-image = "img/freely-26905.jpg"
+image = "img/bows-or-bow-ties.jpg"
 text = "Sign up for a class!"
 title = "Crafts"
 url = "/crafts"
