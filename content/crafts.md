@@ -1,8 +1,8 @@
 ---
 title: Crafts
-subtitle: Sign up for a Class
-date: 2019-04-14T23:01:47.374Z
+subtitle: Sign up for a Class by calling 937-545-5997 or 269-352-7030
+date: 2019-08-04T23:01:47.374Z
 images:
   - /img/img_2470-1-.jpg
 ---
-There are several craft classes to choose from so watch for new classes.
+There are several craft classes such as sewing, flower arrangements, stencils, soap making, and painting.  Call for times and dates.
